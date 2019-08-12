@@ -1,4 +1,5 @@
 <?php
+echo "string";
 	$link=mysqli_connect("localhost","root","root","blog","33060");
 
 	// //$query = mysqli_query($link,"SELECT * FROM `user`");
